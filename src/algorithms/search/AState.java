@@ -1,8 +1,11 @@
 package algorithms.search;
 
-import java.util.Comparator;
+import java.io.Serializable;
 
-public abstract class AState {
+/**
+ * An AState object presents a node with his cost and his the previous node.
+ */
+public abstract class AState implements Serializable {
 
     protected AState prev;
     protected Object curr;
@@ -14,6 +17,10 @@ public abstract class AState {
         this.cost = cost;
     }
 
+    /**
+     * getData is a method that return the current node
+     * @return the current node
+     */
     public Object getData (){
         return curr;
     }

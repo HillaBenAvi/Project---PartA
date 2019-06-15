@@ -1,6 +1,13 @@
 package algorithms.mazeGenerators;
 
-public class Position {
+import java.io.Serializable;
+
+/**
+ * The Position object represents a specific Position in the maze.
+ * Every Position is a complex of row number and a column number. 
+ */
+
+public class Position implements Serializable {
 
     private int row, col;
 

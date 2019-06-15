@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * A BreadthFirstSearch objects will be implements a searching algorithm that search the shortest path.
+ */
 public class BreadthFirstSearch extends ASearchingAlgorithm {
 
     Queue<AState> q;
@@ -39,6 +42,11 @@ public class BreadthFirstSearch extends ASearchingAlgorithm {
         return "Breadth First Search";
     }
 
+    /**
+     * A BFS method implements the BFS algorithm .
+     * @param search - the object that we need to run the algorithm on it.
+     * @return all the states we visited and belong the solution.
+     */
     private HashMap<String, AState> BFS(ISearchable search){
        AState start = search.getStartState();
 

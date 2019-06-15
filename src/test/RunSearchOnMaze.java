@@ -3,31 +3,23 @@ package test;
 import algorithms.mazeGenerators.IMazeGenerator;
 import algorithms.mazeGenerators.Maze;
 import algorithms.mazeGenerators.MyMazeGenerator;
-import algorithms.mazeGenerators.EmptyMazeGenerator;
 import algorithms.search.*;
 import java.util.ArrayList;
 
+/**
+ * Created by Aviadjo on 3/22/2017.
+ */
 public class RunSearchOnMaze {
     public static void main(String[] args) {
-        long startTime = System.currentTimeMillis();
-        IMazeGenerator mg = new EmptyMazeGenerator();
-        Maze maze = mg.generate(1000, 1000);
+        IMazeGenerator mg = new MyMazeGenerator();
+        Maze maze = mg.generate(30, 30);
         SearchableMaze searchableMaze = new SearchableMaze(maze);
 
-        long  endTime;
-
-        solveProblem(searchableMaze, new BreadthFirstSearch());
+        byte x = (byte) 256;
+        System.out.println(x);
+        //solveProblem(searchableMaze, new BreadthFirstSearch());
         //solveProblem(searchableMaze, new DepthFirstSearch());
-        solveProblem(searchableMaze, new BestFirstSearch());
-        endTime = System.currentTimeMillis();
-        long time = endTime-startTime;
-        System.out.println("BFS time:" + time);
-
-
-
-       //delete in the end!
-       // System.out.println("maze:");
-       // maze.print();
+        //solveProblem(searchableMaze, new BestFirstSearch());
     }
 
     private static void solveProblem(ISearchable domain, ISearchingAlgorithm searcher) {
@@ -40,6 +32,7 @@ public class RunSearchOnMaze {
         for (int i = 0; i < solutionPath.size(); i++) {
             System.out.println(String.format("%s. %s",i,solutionPath.get(i)));
         }
-
     }
+
+
 }

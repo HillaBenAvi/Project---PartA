@@ -2,6 +2,10 @@ package algorithms.search;
 
 import java.util.*;
 
+/**
+ * A DepthFirstSearch objects will be implements a searching algorithm.
+ */
+
 public class DepthFirstSearch extends ASearchingAlgorithm {
     HashMap<String, AState> statesVisited ;
 
@@ -30,6 +34,11 @@ public class DepthFirstSearch extends ASearchingAlgorithm {
         return "Depth First Search";
     }
 
+    /**
+     * A BFS method implements the BFS algorithm .
+     * @param search - the object that we need to run the algorithm on it.
+     * @param currState - a node that we will start the search
+     */
     private void DFS(ISearchable search, AState currState) {
         if(search==null || currState == null){
             return;

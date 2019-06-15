@@ -1,8 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ATP - Project - PartB:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb412d2-6a29-4471-a5e6-c2dff1df000b" name="Default Changelist" comment="">
+    <list default="true" id="6cb412d2-6a29-4471-a5e6-c2dff1df000b" name="Default Changelist" comment="fjefe">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ATP___Project___PartB_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/IClientStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/ISreverStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/RunCommunicateWithServers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP - Project - PartA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATP - Project - PartB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/AMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/EmptyMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/IMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/MyMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/mazeGenerators/SimpleMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/ASearchingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/AState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/AStateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/BestFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/DepthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/ISearchable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/ISearchingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/MazeState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/SearchableMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/algorithms/search/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/test/RunMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP - Project - PartA/test/RunSearchOnMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/AState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/AState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/AStateComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/AStateComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/ISearchable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/ISearchable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/MazeState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/MazeState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/RunMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RunMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/RunSearchOnMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RunSearchOnMaze.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,44 +78,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
-              <folding>
-                <element signature="method#print#0;class#Maze#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/search/AStateComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/RunSearchOnMaze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,14 +89,89 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="115" column="25" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
+              <folding>
+                <element signature="method#Maze#0;class#Maze#0" />
+                <element signature="method#Maze#1;class#Maze#0" />
+                <element signature="method#setCell#0;class#Maze#0" />
+                <element signature="method#print#0;class#Maze#0" />
+                <element signature="method#toByteArray#0;class#Maze#0" />
+                <element signature="method#splitToTwoBytes#0;class#Maze#0" />
+                <element signature="method#convertToBinary#0;class#Maze#0" />
+                <element signature="method#convertToInteger#0;class#Maze#0" />
+                <element signature="method#unite#0;class#Maze#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/RunCommunicateWithServers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/RunMazeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/IClientStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,8 +180,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="697">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,42 +189,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/search/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="314">
+              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -143,63 +214,55 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" />
-        <option value="$PROJECT_DIR$/src/test/RunMazeGenerator.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/ISearchable.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/MazeState.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/AState.java" />
         <option value="$PROJECT_DIR$/src/algorithms/search/AStateComperator.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" />
         <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java" />
         <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java" />
         <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/ISearchable.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/AStateComparator.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" />
         <option value="$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java" />
         <option value="$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/Server/ISreverStrategy.java" />
+        <option value="$PROJECT_DIR$/src/Client/IClientStrategy.java" />
+        <option value="$PROJECT_DIR$/src/Server/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/Client/Client.java" />
+        <option value="$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java" />
+        <option value="$PROJECT_DIR$/src/test/RunCommunicateWithServers.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" />
         <option value="$PROJECT_DIR$/src/algorithms/search/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/AState.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/MazeState.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" />
+        <option value="$PROJECT_DIR$/src/Server/Server.java" />
         <option value="$PROJECT_DIR$/src/test/RunSearchOnMaze.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java" />
+        <option value="$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java" />
+        <option value="$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" />
+        <option value="$PROJECT_DIR$/src/test/RunMazeGenerator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
-    <option name="y" value="54" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1614" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ATP - Project - PartA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ATP - Project - PartA" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="ATP - Project - PartA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ATP - Project - PartA" type="616d4139:PackageViewModuleNode" />
-              <item name="algorithms" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="ATP - Project - PartA" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ATP - Project - PartA" type="616d4139:PackageViewModuleNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,22 +270,80 @@
               <item name="ATP - Project - PartA" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATP - Project - PartA" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ATP - Project - PartA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP - Project - PartA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP - Project - PartA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP - Project - PartA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP - Project - PartA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP - Project - PartA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mazeGenerators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP - Project - PartA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP - Project - PartA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP - Project - PartA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ATP - Project - PartA" type="58d84e3e:PackageViewProjectNode" />
+              <item name="ATP - Project - PartB" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="ATP - Project - PartA" type="58d84e3e:PackageViewProjectNode" />
+              <item name="ATP - Project - PartB" type="616d4139:PackageViewModuleNode" />
+              <item name="algorithms" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="ATP - Project - PartA" type="58d84e3e:PackageViewProjectNode" />
+              <item name="ATP - Project - PartB" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554559227241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560329791468" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hilla Ben-Avi\Desktop" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,20 +357,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunSearchOnMaze">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ATP - Project - PartA" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+  <component name="RunManager" selected="Application.RunMazeGenerator">
+    <configuration name="RunCommunicateWithServers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RunCommunicateWithServers" />
+      <module name="ATP - Project - PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCompressDecompressMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RunCompressDecompressMaze" />
+      <module name="ATP - Project - PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="RunMazeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.RunMazeGenerator" />
-      <module name="ATP - Project - PartA" />
+      <module name="ATP - Project - PartB" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -262,7 +399,7 @@
     </configuration>
     <configuration name="RunSearchOnMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.RunSearchOnMaze" />
-      <module name="ATP - Project - PartA" />
+      <module name="ATP - Project - PartB" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -273,11 +410,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server$Configuration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Server$Configuration" />
+      <module name="ATP - Project - PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunSearchOnMaze" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.RunMazeGenerator" />
+        <item itemvalue="Application.RunCommunicateWithServers" />
+        <item itemvalue="Application.RunCompressDecompressMaze" />
+        <item itemvalue="Application.Server$Configuration" />
+        <item itemvalue="Application.RunSearchOnMaze" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +445,18 @@
       <updated>1553427253855</updated>
       <workItem from="1553427260129" duration="20910000" />
       <workItem from="1554193096070" duration="48266000" />
+      <workItem from="1554731000941" duration="214000" />
+      <workItem from="1554731757121" duration="81871000" />
+      <workItem from="1557752617484" duration="15330000" />
+      <workItem from="1557912635755" duration="1109000" />
+      <workItem from="1557913799339" duration="18194000" />
+      <workItem from="1558378461612" duration="905000" />
+      <workItem from="1559401642602" duration="5225000" />
+      <workItem from="1560154463614" duration="599000" />
+      <workItem from="1560173244014" duration="718000" />
+      <workItem from="1560327073070" duration="115000" />
+      <workItem from="1560328159224" duration="859000" />
+      <workItem from="1560615124361" duration="467000" />
     </task>
     <task id="LOCAL-00001" summary="6\4">
       <created>1554559059388</created>
@@ -315,22 +479,39 @@
       <option name="project" value="LOCAL" />
       <updated>1554559213667</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fjefe">
+      <created>1554559317183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554559317183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69576000" />
+    <option name="totallyTimeSpent" value="195384000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.6" side_tool="true" weight="0.1805668" />
       <window_info id="Image Layers" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.23543689" side_tool="true" visible="true" weight="0.1805668" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.7645631" visible="true" weight="0.1805668" />
+      <window_info id="Structure" order="5" sideWeight="0.25753424" side_tool="true" weight="0.18704453" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.74043715" visible="true" weight="0.1757085" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.3285968" />
@@ -338,12 +519,12 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49959514" visible="true" weight="0.26820603" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49959514" weight="0.26820603" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.36056837" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.30195382" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -361,7 +542,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6\4" />
     <MESSAGE value="bcscsbhcbdc" />
-    <option name="LAST_COMMIT_MESSAGE" value="bcscsbhcbdc" />
+    <MESSAGE value="fjefe" />
+    <option name="LAST_COMMIT_MESSAGE" value="fjefe" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -401,15 +583,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ATP - Project - PartA.iml">
+    <entry file="file://$PROJECT_DIR$/ATP - Project - PartB.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -418,23 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/RunMazeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2924">
@@ -457,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ISearchable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -471,66 +623,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="method#print#0;class#Maze#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="204">
+          <caret line="12" column="99" selection-start-line="12" selection-start-column="99" selection-end-line="12" selection-end-column="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="85" selection-start-line="3" selection-start-column="85" selection-end-line="3" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ISearchable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="345">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
             <element signature="e#314#315#0" expanded="true" />
             <element signature="e#365#366#0" expanded="true" />
@@ -538,17 +662,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/AState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/search/AStateComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
@@ -556,69 +673,282 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/savedMaze.txt" />
+    <entry file="file://$PROJECT_DIR$/savedMaze.maze" />
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Configuration.java" />
+    <entry file="file://$PROJECT_DIR$/config.properties" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6477">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="901" column="23" lean-forward="true" selection-start-line="901" selection-start-column="23" selection-end-line="901" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="473" selection-start-line="473" selection-end-line="473" />
           <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#13443#13444#0" expanded="true" />
+            <element signature="e#13484#13485#0" expanded="true" />
+            <element signature="e#14072#14073#0" expanded="true" />
+            <element signature="e#14108#14109#0" expanded="true" />
+            <element signature="e#27935#27936#0" expanded="true" />
+            <element signature="e#27980#27981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/AState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/MazeState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getAllPossibleStates#0;class#SearchableMaze#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ISreverStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="130" column="70" selection-start-line="130" selection-start-column="70" selection-end-line="130" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="method#splitToTwoBytes#0;class#MyCompressorOutputStream#0" />
+            <element signature="method#convertToBinary#0;class#MyCompressorOutputStream#0" />
+            <element signature="method#convertToInteger#0;class#MyCompressorOutputStream#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RunSearchOnMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="115" column="25" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
+          <folding>
+            <element signature="method#Maze#0;class#Maze#0" />
+            <element signature="method#Maze#1;class#Maze#0" />
+            <element signature="method#setCell#0;class#Maze#0" />
+            <element signature="method#print#0;class#Maze#0" />
+            <element signature="method#toByteArray#0;class#Maze#0" />
+            <element signature="method#splitToTwoBytes#0;class#Maze#0" />
+            <element signature="method#convertToBinary#0;class#Maze#0" />
+            <element signature="method#convertToInteger#0;class#Maze#0" />
+            <element signature="method#unite#0;class#Maze#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RunCommunicateWithServers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/IClientStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="697">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java">
+    <entry file="file://$PROJECT_DIR$/src/test/RunMazeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="391">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/MazeState.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/search/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/RunSearchOnMaze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="314">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -628,10 +958,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>ATP - Project - PartB:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -674,7 +1006,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ATP - Project - PartA</last-edited>
+          <last-edited>ATP - Project - PartB</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

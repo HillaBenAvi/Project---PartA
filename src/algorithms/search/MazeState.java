@@ -2,16 +2,12 @@ package algorithms.search;
 
 import algorithms.mazeGenerators.Position;
 
-public class MazeState extends AState {
+import java.io.Serializable;
 
+public class MazeState extends AState implements Serializable {
 
     public MazeState(Position p, int cost ) {
         super(p, cost);
     }
-
-
-
-
-
 
 }
